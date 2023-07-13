@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<title>Login Page</title>
+<head></head>
+<body>
+<img src="C:\Users\Interns\Desktop\Intern Files\CSS Files\Pictures\gradient_bg.jpg">
+<button type="button">Login </button>
+
+
+</body>
+</html>
