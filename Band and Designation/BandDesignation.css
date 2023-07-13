@@ -1,0 +1,69 @@
+.L8 {
+    background-color: rgb(238, 80, 80);
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.L7 {
+    background-color: rgb(245, 167, 23);
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.L6 {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.L5 {
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.L4 {
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.L3 {
+    background-color: rgb(26, 184, 247);
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.L2 {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.L1 {
+    background-color: rgb(95, 59, 255);
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.TRB {
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+
+.N {
+    background-color: rgb(197, 88, 88);
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}

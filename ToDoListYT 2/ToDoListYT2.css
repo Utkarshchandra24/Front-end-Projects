@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.main-div {
+    min-height: 100vh;
+    background: #7e86fa;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.child-div {
+
+}

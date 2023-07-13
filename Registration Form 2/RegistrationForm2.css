@@ -1,0 +1,94 @@
+.main-div {
+
+}
+
+.sub-div {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.left-div {
+    background-color: aquamarine;
+    width: 20%;
+}
+
+.left-div-mid-span1 {
+    position: absolute;
+    left: 520px;
+    top: 158px;
+}
+
+.left-div-mid-span2 {
+    position: absolute;
+    left: 520px;
+    top: 176px;
+}
+
+h1 {
+    
+}
+
+.left-div-top {
+    justify-content: center;
+}
+
+.right-div-h1 {
+    color: rgb(53, 187, 142);
+}
+
+.btn-signin {
+    padding: 15px;
+    background-color: aqua;
+    width: 170px;
+    border-radius: 50px;
+    position: absolute;
+    left: 541px;
+    top: 223px;
+}
+
+.social-media {
+    justify-content: flex-start;
+    display: flex;
+}
+
+.facebook {
+    width: 50px;
+    height: 50px;
+}
+
+.instagram {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 1406px;
+    top: 90px;
+}
+
+.twitter {
+    width: 50px;
+    height: 50px;
+}
+
+.linkedin {
+    width: 50px;
+    height: 50px;
+}
+
+.user-info-data {
+    width: 230px;
+}
+
+.user-info-btn-signup {
+    position: absolute;
+    top: 270px;
+    right: 470px;
+}
+
+.btn-signup {
+    background-color: rgb(53, 187, 142);
+    color: white;
+    border-radius: 50px;
+    padding: 15px;
+    width: 170px;
+    
+}

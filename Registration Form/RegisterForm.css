@@ -1,0 +1,50 @@
+.RegisterForm {
+    text-align: center;
+    background-color: green;
+}
+
+.label {
+    display: block;
+    font-size: large;
+    color: black;
+    padding: 5px;
+}
+
+.input {
+    font-size: large;
+    padding: 5px;
+    margin: 2px;
+}
+
+.btn {
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: large;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+}
+
+.messages {
+    display: flex;
+    justify-content: center;
+}
+
+.error {
+    display: block;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+}
+
+.success {
+    display: block;
+    background-color: lightgreen;
+    color: black;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+}

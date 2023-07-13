@@ -1,0 +1,56 @@
+.main-div {
+    border-radius: 50px;
+    background-color: rgb(110, 219, 255);
+    width: 25%;
+    padding: 20px;
+    height: 180px;
+}
+
+.head {
+    justify-content: center;
+}
+
+.sub-div2 {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+    background-color: rgb(49, 113, 252);
+    justify-content: center;
+    position: absolute;
+    left: 200px;
+}
+
+h1 {
+    padding: 3px;
+    position: absolute;
+    top: 2px;
+}
+
+.sub-div3 {
+    display: flex;
+    justify-content: space-between;
+    /* position: absolute; */
+    top: 200px;
+}
+
+.sub-div3-left {
+    
+}
+
+.btn1 {
+    width: 60px;
+    height: 35px;
+    background-color: antiquewhite;
+}
+
+.btn2 {
+    width: 60px;
+    height: 35px;
+    background-color: antiquewhite;
+}
+
+
+.sub-div3-right{
+    
+}

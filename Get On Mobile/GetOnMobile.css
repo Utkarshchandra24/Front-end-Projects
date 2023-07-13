@@ -1,0 +1,29 @@
+.main-div {
+    background-color: #e1b99c;
+    display: flex;
+    width: 80%;
+    border-radius: 50px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+.sub-div1,.sub-div2 {
+    /* border: 2px solid; */
+    padding: 10px;
+}
+
+.img1 {
+    width: 450px;
+    height: 450px;
+    margin: 10px;
+}
+
+.img2 {
+    width: 225px;
+    height: 50px;
+    margin: 10px;
+}
+
+.sub-div1 {
+    display: flex;
+}
